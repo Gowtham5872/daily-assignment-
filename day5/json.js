@@ -63,37 +63,3 @@ let resume={
         let key = keys[i];
         console.log(key + ": " + resume[key]);
     }
-                
-
-
-
-
-                OUTPUT FOR THE ABOVE CODE
-
-
-
-
-    name: Gowtham
-contact_info: [object Object]
-summary: Experienced Full Stack Developer with a focus on healthcare technology. Proficient in designing and implementing software solutions to improve patient care and streamline healthcare processes.
-education: [object Object]
-experience: [object Object],[object Object]
-skills: Programming languages: Java, JavaScript, Python,Frameworks: Spring Boot, React, Angular,Database technologies: SQL, MongoDB,Healthcare standards: HL7, DICOM,Agile development methodologies
-name: Gowtham
-contact_info: [object Object]
-summary: Experienced Full Stack Developer with a focus on healthcare technology. Proficient in designing and implementing software solutions to improve patient care and streamline healthcare processes.
-education: [object Object]
-experience: [object Object],[object Object]
-skills: Programming languages: Java, JavaScript, Python,Frameworks: Spring Boot, React, Angular,Database technologies: SQL, MongoDB,Healthcare standards: HL7, DICOM,Agile development methodologies
-name: Gowtham
-contact_info: [object Object]
-summary: Experienced Full Stack Developer with a focus on healthcare technology. Proficient in designing and implementing software solutions to improve patient care and streamline healthcare processes.
-education: [object Object]
-experience: [object Object],[object Object]
-skills: Programming languages: Java, JavaScript, Python,Frameworks: Spring Boot, React, Angular,Database technologies: SQL, MongoDB,Healthcare standards: HL7, DICOM,Agile development methodologies
-name: Gowtham
-contact_info: [object Object]
-summary: Experienced Full Stack Developer with a focus on healthcare technology. Proficient in designing and implementing software solutions to improve patient care and streamline healthcare processes.
-education: [object Object]
-experience: [object Object],[object Object]
-skills: Programming languages: Java, JavaScript, Python,Frameworks: Spring Boot, React, Angular,Database technologies: SQL, MongoDB,Healthcare standards: HL7, DICOM,Agile development methodologies
